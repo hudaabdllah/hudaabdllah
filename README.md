@@ -1,16 +1,33 @@
-## Hi there 👋
+# Huda Abdullah – Data Analyst
 
-<!--
-**hudaabdllah/hudaabdllah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I am a**Data Analyst** with a background in **Business Administration (MBA)** and a strong interest in using data to support business decisions. My work focuses on transforming raw data into meaningful insights through dashboards, data modeling, and analytical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* MBA student with a focus on **Business Analytics and Managerial Economics**
+* Passionate about **data-driven decision making**
+* Currently building hands-on projects in **Power BI, SQL, and data visualization**
+* Interested in analyzing business performance, financial metrics, and operational data
+
+## Skills & Tools
+
+* **Power BI** – Dashboards, Data Modeling, DAX
+* **SQL** – Data querying and data analysis
+* **Microsoft Azure** – Cloud data services and analytics tools
+* **Excel** – Data analysis and reporting
+* **Data Cleaning & Transformation**
+* **Business & Financial Analysis**
+* **Data Visualization**
+
+
+## What I'm Currently Learning
+
+* Advanced **Power BI & DAX**
+* **SQL for Data Analysis**
+* **Azure Data Services**
+* Building real-world **Data Analytics Projects**
+
+## Goals
+
