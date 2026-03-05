@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I am a**Data Analyst** with a background in **Business Administration (MBA)** and a strong interest in using data to support business decisions. My work focuses on transforming raw data into meaningful insights through dashboards, data modeling, and analytical tools.
+I am a **Data Analyst** with a background in **Business Administration (MBA)** and a strong interest in using data to support business decisions. My work focuses on transforming raw data into meaningful insights through dashboards, data modeling, and analytical tools.
 
 ## About Me
 
