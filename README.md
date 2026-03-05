@@ -29,5 +29,4 @@ I am a**Data Analyst** with a background in **Business Administration (MBA)** an
 * **Azure Data Services**
 * Building real-world **Data Analytics Projects**
 
-## Goals
 
